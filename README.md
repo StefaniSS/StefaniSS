@@ -39,7 +39,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/StefaniSS/StefaniSS/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/StefaniSS/StefaniSS/output/snake.svg)
+
 
 ###
 
