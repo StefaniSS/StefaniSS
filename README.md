@@ -43,12 +43,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://giphy.com/gifs/steven-universe-su-garnet-6w4yjSjHd66Na"  />
-</div>
-
-###
-
 <p align="left">Sinta-se à vontade para explorar e colaborar em qualquer projeto. Vamos juntos criar algo incrível!</p>
 
 ###
