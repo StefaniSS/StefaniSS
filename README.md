@@ -39,8 +39,13 @@
 
 ###
 
-![Snake animation](https://github.com/StefaniSS/StefaniSS/output/snake.svg)
+<img src="https://raw.githubusercontent.com/StefaniSS/StefaniSS/output/snake.svg" alt="Snake animation" />
 
+###
+
+<div align="center">
+  <img height="200" src="https://giphy.com/gifs/steven-universe-su-garnet-6w4yjSjHd66Na"  />
+</div>
 
 ###
 
